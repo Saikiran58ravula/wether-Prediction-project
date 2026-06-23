@@ -1,4 +1,4 @@
-Live server Link ==[https://saikiran58ravula.github.io/wether-Prediction-project/]
+
 
 # 🌤️ Weather Prediction App
 
@@ -13,7 +13,7 @@ A clean, responsive **Weather Prediction Web App** that delivers real-time weath
 
 ## 🚀 Live Demo
 
-🔗 [View Live App](#) *(Replace with your GitHub Pages URL)*
+🔗 [View Live App](#) *(https://saikiran58ravula.github.io/wether-Prediction-project/)*
 
 ---
 
